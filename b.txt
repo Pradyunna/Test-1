@@ -1,2 +1,4 @@
 this is b.txt file.
+<<<<<<< HEAD
 here engins of car made.
+
